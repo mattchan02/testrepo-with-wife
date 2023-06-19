@@ -9,7 +9,7 @@ function App() {
         <p>
           Hello Matthew Chan<br></br>
           <i>This is Erica's husband speaking,</i> I just wanted to say that<br></br>
-          <u><b>I LOVE you</b></u>
+          <u><b>I LOVE YOU</b></u>
         </p>
         <a
           className="App-link"
