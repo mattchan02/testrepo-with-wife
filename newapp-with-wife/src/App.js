@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hello Matthew Chan<br></br>
-          This is Erica's husband speaking, I just wanted to say that<br></br>
-          <u>I LOVE you</u>
+          <i>This is Erica's husband speaking,</i> I just wanted to say that<br></br>
+          <u><b>I LOVE you</b></u>
         </p>
         <a
           className="App-link"
